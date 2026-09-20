@@ -24,7 +24,7 @@
 Конец алгоритма.
 
 ### Блок-схема
-![Блок-схема](op.drawio.png)
+![Блок-схема](схема(Lab2).drawio.png)
 
 [Ссылка на блок-схему, созданную в draw.io](https://drive.google.com/file/d/1b83Yg0syNqzu924w3d39_bbLCHtpwoSx/view?usp=drive_link)
 
